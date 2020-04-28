@@ -9,6 +9,6 @@ The application is designed to provide a forum for users to log in and ask quest
 ## Access
 The application is currently hosted on Heroku https://bit.ly/2yaYg27.
 
-## The team
+## Credits
 Front-end: Justin Cervantes
 Back-end: Jameson Cheong, Derek Leung, Keunsam Lee
